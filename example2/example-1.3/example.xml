@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="payplans" method="upgrade">
+    <name>PayPlans-Example Plugin</name>
+    <version>0.1</version>
+    <creationDate>Nov 2011</creationDate>
+    <author>Payplans</author>
+    <authorEmail>payplans@readybytes.in</authorEmail>
+    <authorUrl>http://www.jpayplans.com</authorUrl>
+    <copyright>2009-11 Ready Bytes Software Labs Pvt. Ltd.</copyright>
+    <license>GNU General Public License v2</license>
+    <description>Clear description of this plugin </description>
+	<files>
+		<filename plugin="example">example.php</filename>
+		<folder>example</folder>
+	</files>
+</install>
